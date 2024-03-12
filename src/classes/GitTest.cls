@@ -4,4 +4,5 @@ public class GitTest {
 	//master change
 	//hotfix change
 	//push test
+//pull test
 }
